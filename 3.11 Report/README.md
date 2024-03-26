@@ -9,4 +9,7 @@
 
 
 <img width="215" alt="1_실행" src="https://github.com/20Sangwoo/Android/assets/144245121/6e5a321a-a0b6-42fa-836a-12dc4620649f"><br>
-실행 화면
+실행 화면 <br><br><br>
+
+
+(오류로 인해 계속 시도하고 교수님께 여쭤도 봤지만 해결이 안돼 새로운 노트북을 구매하여 재시도 후 업로드합니다)
