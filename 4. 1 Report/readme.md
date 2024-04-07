@@ -7,7 +7,7 @@
 
 3. 여론조사 <br>![3](https://github.com/20Sangwoo/Android/assets/144245121/ecb016ba-04b0-45de-9318-13020ebd946a)
 
-4. 할 일 목록 <br> ![4](https://github.com/20Sangwoo/Android/assets/144245121/755bc669-3b4b-4d71-b664-3da44bdb8607)
+4. 할 일 목록 <br> ![4](https://github.com/20Sangwoo/Android/assets/144245121/a3d95ae7-3ab0-4afb-87eb-c567baaa5141)
 
 5. 챕터 5 6번 문제 <br>![5](https://github.com/20Sangwoo/Android/assets/144245121/3625f620-7b75-49a8-b754-f6a0d9387815)
 
