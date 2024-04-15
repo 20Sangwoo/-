@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">activityEx2</string>
+    <string name="act1">Hello Android!</string>
+    <string name="hint1">이메일</string>
+    <string name="hint2">비밀번호</string>
+    <string name="login">로그인</string>
+    <string name="forgot">비밀번호를 잊으셨나요</string>
+    <string name="register">계졍이 없으신가요? 회원가입</string>
+</resources>
