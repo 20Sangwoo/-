@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">activityEx4</string>
+    <string name="call">전화걸기</string>
+    <string name="map">지도보기</string>
+    <string name="web">웹브라우저</string>
+    <string name="book">연락처보기</string>
+
+</resources>
