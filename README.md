@@ -7,3 +7,4 @@
 네이버 이미지 검색 API : https://developers.naver.com/main/  (무료/ 사용량 제한 / api 신청 및 발급)<br>
 언스플래시 : https://unsplash.com/developers (무료 / 제한 없음 / api 신청 및 발급)<br>
 TensorFlow Hub : 이미지 검색 및 분류 가능한 플랫폼 (InceptionV3, MobileNet, ResNet 등의 기본 모델 제공)
+이미지 분류 예) : https://www.tensorflow.org/tutorials/keras/classification?hl=ko <br>
