@@ -9,4 +9,5 @@
 TensorFlow Hub : 이미지 검색 및 분류 가능한 플랫폼 (InceptionV3, MobileNet, ResNet 등의 기본 모델 제공)
 이미지 분류 예) : https://www.tensorflow.org/tutorials/keras/classification?hl=ko <br><br><br>
 
-5. 13 과제 : 기존 계산기 앱 SWOT 분석하고 계산기 앱  SCANP 기법 이용해서 만들기
+5. 13 과제 : 기존 계산기 앱 SWOT 분석하고 계산기 앱  SCAMPER 기법 이용해서 만들기<br>
+
