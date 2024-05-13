@@ -10,5 +10,14 @@
 TensorFlow Hub : 이미지 검색 및 분류 가능한 플랫폼 (InceptionV3, MobileNet, ResNet 등의 기본 모델 제공)<br>
 이미지 분류 예) : https://www.tensorflow.org/tutorials/keras/classification?hl=ko <br><br><br>
 
+
+
 5. 13 과제 : 기존 계산기 앱 SWOT 분석하고 계산기 앱  SCAMPER 기법 이용해서 만들기<br>
-앱이랑 피피티 만들어오기
+앱이랑 피피티 만들어오기<br><br>
+
+
+기획 : 피그마 <br>
+분석 : 구글 플레이 스토어 앱 분석 (SWOT 분석) <br>
+기법 : SCAMPER 적용해서 나만의 계산기 <br><br>
+
+reference : 출처 남기기
