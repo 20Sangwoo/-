@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="end"
+        android:text="0"
+        android:textSize="32sp"
+        android:textColor="@android:color/black"
+        android:background="@drawable/edittext_border" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:columnCount="4"
+        android:rowCount="6"
+        android:alignmentMode="alignMargins"
+        android:useDefaultMargins="true">
+
+        <!-- Row 0 -->
+        <android.widget.Button
+            android:id="@+id/btnOpenParenthesis"
+            android:background="@drawable/button_background"
+            android:text="("
+            android:layout_height="65dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnCloseParenthesis"
+            android:background="@drawable/button_background"
+            android:text=")"
+            android:layout_height="65dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnPercent"
+            android:background="@drawable/button_background"
+            android:text="%"
+            android:layout_height="65dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnClear"
+            android:background="@drawable/button_background"
+            android:text="AC"
+            android:layout_height="65dp"/>
+
+        <!-- Row 1 -->
+        <android.widget.Button
+            android:id="@+id/btn7"
+            android:background="@color/black"
+            android:text="7"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btn8"
+            android:background="@color/black"
+            android:text="8"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btn9"
+            android:background="@color/black"
+            android:text="9"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnDivide"
+            android:background="@drawable/button_background"
+            android:text="÷"
+            android:layout_height="80dp"/>
+
+        <!-- Row 2 -->
+        <android.widget.Button
+            android:id="@+id/btn4"
+            android:background="@color/black"
+            android:text="4"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btn5"
+            android:background="@color/black"
+            android:text="5"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btn6"
+            android:background="@color/black"
+            android:text="6"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnMultiply"
+            android:background="@drawable/button_background"
+            android:text="×"
+            android:layout_height="80dp"/>
+
+        <!-- Row 3 -->
+        <android.widget.Button
+            android:id="@+id/btn1"
+            android:background="@color/black"
+            android:text="1"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btn2"
+            android:background="@color/black"
+            android:text="2"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btn3"
+            android:background="@color/black"
+            android:text="3"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnSubtract"
+            android:background="@drawable/button_background"
+            android:text="−"
+            android:layout_height="80dp"/>
+
+        <!-- Row 4 -->
+        <android.widget.Button
+            android:id="@+id/btn0"
+            android:background="@color/black"
+            android:text="0"
+            android:textColor="@color/white"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnDot"
+            android:background="@drawable/button_background"
+            android:text="."
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnEqual"
+            android:background="@drawable/button_background"
+            android:text="="
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnAdd"
+            android:background="@drawable/button_background"
+            android:text="+"
+            android:layout_height="80dp"/>
+
+        <android.widget.Button
+            android:id="@+id/btnExit"
+            android:background="@color/orange"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:text="종료" />
+    </GridLayout>
+
+</LinearLayout>
